@@ -10,3 +10,7 @@ C:\Users\nalun\onedrive\desktop\todolistcs\ToDoList\bin\Debug\net5.0\ToDoList.pd
 C:\Users\nalun\onedrive\desktop\todolistcs\ToDoList\obj\Debug\net5.0\ToDoList.dll
 C:\Users\nalun\onedrive\desktop\todolistcs\ToDoList\obj\Debug\net5.0\ref\ToDoList.dll
 C:\Users\nalun\onedrive\desktop\todolistcs\ToDoList\obj\Debug\net5.0\ToDoList.pdb
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList\bin\Debug\net5.0\ToDoList.exe
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.json
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList\obj\Debug\net5.0\ToDoList.genruntimeconfig.cache

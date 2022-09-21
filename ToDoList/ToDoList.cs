@@ -23,12 +23,13 @@ namespace ToDoList
 				}
 				else if (userInput1.ToLower() == "view")
 				{
-					List<Item> ToDoList = new List<Item>.GetAll();
+					List<Item> ToDoList = Item.GetAll();
 					foreach (Item toDo in ToDoList)
 					{
 						number += 1;
-						Console.WriteLine(number + ". " + toDo);
+						Console.WriteLine(number + ". " + toDo.Description);
 					}
+					number = 0;
 				}
 				else if (userInput1.ToLower() == "q")
 				{
