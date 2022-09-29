@@ -2066,7 +2066,10 @@
         },
         "runtime": {
           "bin/placeholder/ToDoList.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -6919,11 +6922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nalun\\onedrive\\desktop\\todolistcs\\ToDoList.Tests\\ToDoList.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\nalun\\OneDrive\\desktop\\todolistcs\\ToDoList.Tests\\ToDoList.Tests.csproj",
       "projectName": "ToDoList.Tests",
-      "projectPath": "C:\\Users\\nalun\\onedrive\\desktop\\todolistcs\\ToDoList.Tests\\ToDoList.Tests.csproj",
+      "projectPath": "C:\\Users\\nalun\\OneDrive\\desktop\\todolistcs\\ToDoList.Tests\\ToDoList.Tests.csproj",
       "packagesPath": "C:\\Users\\nalun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nalun\\onedrive\\desktop\\todolistcs\\ToDoList.Tests\\obj\\",
+      "outputPath": "C:\\Users\\nalun\\OneDrive\\desktop\\todolistcs\\ToDoList.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nalun\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6938,8 +6941,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\nalun\\onedrive\\desktop\\todolistcs\\ToDoList\\ToDoList.csproj": {
-              "projectPath": "C:\\Users\\nalun\\onedrive\\desktop\\todolistcs\\ToDoList\\ToDoList.csproj"
+            "C:\\Users\\nalun\\OneDrive\\desktop\\todolistcs\\ToDoList\\ToDoList.csproj": {
+              "projectPath": "C:\\Users\\nalun\\OneDrive\\desktop\\todolistcs\\ToDoList\\ToDoList.csproj"
             }
           }
         }

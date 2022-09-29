@@ -98,3 +98,9 @@ C:\Users\nalun\onedrive\desktop\todolistcs\ToDoList.Tests\obj\Debug\net5.0\ToDoL
 C:\Users\nalun\onedrive\desktop\todolistcs\ToDoList.Tests\obj\Debug\net5.0\ref\ToDoList.Tests.dll
 C:\Users\nalun\onedrive\desktop\todolistcs\ToDoList.Tests\obj\Debug\net5.0\ToDoList.Tests.pdb
 C:\Users\nalun\onedrive\desktop\todolistcs\ToDoList.Tests\obj\Debug\net5.0\ToDoList.Tests.genruntimeconfig.cache
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList.Tests\bin\Debug\net5.0\ToDoList.Views.dll
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList.Tests\bin\Debug\net5.0\ToDoList.Views.pdb
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList.Tests\bin\Debug\net5.0\ToDoList.deps.json
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList.Tests\bin\Debug\net5.0\ToDoList.runtimeconfig.json
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList.Tests\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
+C:\Users\nalun\OneDrive\desktop\todolistcs\ToDoList.Tests\bin\Debug\net5.0\ToDoList.exe
